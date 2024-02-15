@@ -1,1 +1,10 @@
-var num1 = 20;
+@media(max-width: 600px){
+    .title{
+        margin-top: 12% !important;
+    }
+}
+@media(max-width: 990px){
+    .title{
+        margin-top: 12% !important;
+    }
+}
